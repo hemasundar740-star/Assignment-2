@@ -528,4 +528,5 @@ The Transformer processes these vectors and their context.
 The LLM performs next-token prediction repeatedly to generate an answer.
 Similar concepts can have similar embeddings, which helps the model work with relationships between words and ideas.
 
-This is a good structure for your Assignment-2 README/documentation and is suitable for uploading to your GitHub repository.
+This is a good structure for your Assignment-2 README/documentation and is suitable for uploading to your GitHub repository.#   A s s i g n m e n t - 2  
+ 
